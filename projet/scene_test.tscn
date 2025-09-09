@@ -3,9 +3,9 @@
 [node name="SceneTest" type="Node2D"]
 
 [node name="Label" type="Label" parent="."]
-offset_left = 412.0
-offset_top = 219.0
-offset_right = 720.0
-offset_bottom = 318.0
+offset_left = 380.0
+offset_top = 241.0
+offset_right = 748.0
+offset_bottom = 340.0
 theme_override_font_sizes/font_size = 72
 text = "Mon test 2"
